@@ -1,6 +1,6 @@
 object hospital {
-	var doctores = []
-	var pacientesAtendidos = []
+	var doctores = ([pepe,lucho])
+	var pacientesAtendidos = ([sandra,juan])
 	var slogan = "Haciendo todo para que vuelvas"
 	
 	method slogan() = slogan
